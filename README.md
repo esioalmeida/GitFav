@@ -14,7 +14,7 @@
  <br/>
 
 <p align="center">
-  <img alt="final-layout" src="./assets/capa.png" width="100%" >
+  <img alt="final-layout" src="./assets/Capa.png" width="100%" >
 </p>
 
 ## 🚀 Tecnologias
